@@ -4,25 +4,17 @@
   <img src="https://tenor.com/pt/view/goku-gif-22710398.gif" width="200px">
 </p>
 
-### My Github Stats 📊
+<h2 align="left">📊 My Github Stats</h2>
 
 <br>
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuskininjaa&theme=github_dark&hide_langs_below=1&layout=compact" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=tuskininjaa&count_private=true&hide=stars&show_icons=true&theme=github_dark&line_height=27" alt="Yuske's github stats" height="150px"/>
 </p>
-    
-<!--
-**TuskiNinjaa/TuskiNinjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="left">🤝 Social medias</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+  <a href="https://www.linkedin.com/in/vitor-yuske-watanabe-884136241/?originalSubdomain=br"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="mailto:vitor.yuski1@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+</p>
