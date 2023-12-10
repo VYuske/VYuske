@@ -8,7 +8,7 @@
 
 <br>
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuskininjaa&theme=github_dark&hide_langs_below=1&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuskininjaa&theme=github_dark&hide_langs_below=1&layout=compact&hide=jupyter%20notebook,assembly" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=tuskininjaa&count_private=true&hide=stars&show_icons=true&theme=github_dark&line_height=27" alt="Yuske's github stats" height="150px"/>
 </p>
 
