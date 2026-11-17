@@ -1,19 +1,40 @@
-<h1 align="center">Hi, I'm Yuske <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<br>
+# Vitor Yuske Watanabe
+
+**Analytics Engineer · Data Engineer**<br>
+Campo Grande, Brazil · [LinkedIn](https://www.linkedin.com/in/vitor-yuske/)
+
+Analytics Engineer with a Computer Engineering background. I work across ingestion, transformation, orchestration, and BI — mainly with Python, SQL, dbt, Airflow, Qlik, and cloud data platforms. I care about data quality, reproducibility, and making data useful for decisions.
+
+Currently working with analytics engineering and BI at Aderência.
+
+## Stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python · SQL · PL/SQL |
+| Data engineering | dbt · Apache Airflow · ClickHouse · BigQuery · Amazon S3 · Parquet |
+| Analytics & BI | Qlik Sense · Qlik Cloud · Power BI · Streamlit |
+| Platform & engineering | Docker · Git · GitHub · GCP · AWS · REST APIs · pytest |
+
+## Focus
+
+- Build and maintain batch/ELT pipelines with clear ownership and tests.
+- Model analytics data with dbt and document assumptions.
+- Turn data into BI products that people actually use.
+- Automate manual data work and improve data quality.
+
+## GitHub activity
+
 <p align="center">
-  <img src="https://tenor.com/pt/view/goku-gif-22710398.gif" width="200px">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vyuske&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vyuske&theme=github">
+    <img alt="GitHub stats for vyuske" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vyuske&theme=github">
+  </picture>
 </p>
 
-<h2 align="left">📊 My Github Stats</h2>
+## Contact
 
-<br>
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyuske&theme=github_dark&hide_langs_below=1&layout=compact&hide=jupyter%20notebook,assembly" height="150px"/>
-</p>
-
-<h2 align="left">🤝 Social medias</h2>
-
-<p align=center>
-  <a href="https://www.linkedin.com/in/vitor-yuske/?originalSubdomain=br"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:vitor.yuski1@gmail.com?subject=Hi%20Yuske,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-</p>
+<a href="https://www.linkedin.com/in/vitor-yuske/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
