@@ -18,8 +18,6 @@ Currently working with analytics engineering, data analysis, and BI at Aderênci
 | **AI & automation** | ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![LLMs/RAG](https://img.shields.io/badge/LLMs%20%2F%20RAG-6B7280?style=flat-square) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square) ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square) |
 | **Platform & engineering** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
 
-_Tools without an official Simple Icons logo are shown as text-only badges._
-
 ## How I work
 
 I build data products in layers: land the raw data, transform it into tested models, and ship it to the people who use it. I aim for each layer to have a clear purpose, a test, and a consumer.
